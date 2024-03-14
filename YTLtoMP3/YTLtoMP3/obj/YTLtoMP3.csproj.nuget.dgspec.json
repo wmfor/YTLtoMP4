@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\westo\\OneDrive\\Desktop\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj": {}
+    "C:\\GITHUB\\YTLtoMP4\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\westo\\OneDrive\\Desktop\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj": {
+    "C:\\GITHUB\\YTLtoMP4\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\westo\\OneDrive\\Desktop\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj",
+        "projectUniqueName": "C:\\GITHUB\\YTLtoMP4\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj",
         "projectName": "YTLtoMP3",
-        "projectPath": "C:\\Users\\westo\\OneDrive\\Desktop\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj",
+        "projectPath": "C:\\GITHUB\\YTLtoMP4\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj",
         "packagesPath": "C:\\Users\\westo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\westo\\OneDrive\\Desktop\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3\\obj\\",
+        "outputPath": "C:\\GITHUB\\YTLtoMP4\\YTLtoMP3\\YTLtoMP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\westo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "VideoLibrary": {
               "target": "Package",
               "version": "[3.2.3, )"
+            },
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[6.3.11, )"
             }
           },
           "imports": [

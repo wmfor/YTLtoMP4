@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YXuWgOMF31uFzX6zKKH6J8RzlUADOWA1Y94fzDb98VnQAh8N0qfqdkLYzoK+WA+qvyNM80t85TKD940hd6nizQ==",
+  "dgSpecHash": "XiZ4xv0XwVAyNII1ylGjFZKWZFacr5JZpu6E13Iz5EqEn0X31sMJFqItBmNfftEPSOY7ad/F4PM1fHbIW+Z5VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\westo\\OneDrive\\Desktop\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj",
+  "projectFilePath": "C:\\GITHUB\\YTLtoMP4\\YTLtoMP3\\YTLtoMP3\\YTLtoMP3.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\westo\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\mediatoolkit\\1.1.0.1\\mediatoolkit.1.1.0.1.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -71,6 +72,7 @@
     "C:\\Users\\westo\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\westo\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
@@ -79,7 +81,8 @@
     "C:\\Users\\westo\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\westo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\westo\\.nuget\\packages\\videolibrary\\3.2.3\\videolibrary.3.2.3.nupkg.sha512"
+    "C:\\Users\\westo\\.nuget\\packages\\videolibrary\\3.2.3\\videolibrary.3.2.3.nupkg.sha512",
+    "C:\\Users\\westo\\.nuget\\packages\\youtubeexplode\\6.3.11\\youtubeexplode.6.3.11.nupkg.sha512"
   ],
   "logs": [
     {
